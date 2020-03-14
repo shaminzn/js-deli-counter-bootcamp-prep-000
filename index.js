@@ -28,3 +28,4 @@ function currentLine(lineOfPeople){
   }else{
     return "The line is currently:" + line
   }
+}
